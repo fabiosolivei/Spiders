@@ -1,7 +1,7 @@
 # Spiders
 FlightSpider
 
- Updated 2 minutes ago
+
 Crawler made on Scrapy that pulls prices and other info from decolar website and loads in a mysql database
 
 *used Splash to render Javascript
