@@ -1,0 +1,15 @@
+  name = 'Pipper'
+
+    ida = "GRU"
+    volta = "FOR"
+    DiaInicial = "30"
+    MesInicial = "09"
+    AnoInicial = "2019"
+    DiaFinal = "10"
+    MesFinal = "10"
+    AnoFinal = "2019"
+
+    dataida = AnoInicial + "-" + MesInicial + "-" + DiaInicial
+    datavolta = AnoFinal + "-" + MesFinal + "-" + DiaFinal
+
+    linkdecolar = "https://www.decolar.com/shop/flights/search/roundtrip/" + ida + "/" + volta + "/" + dataidadecolar + "/" + datavoltadecolar + "/1/0/0/NA/NA/NA/NA/NA/?from=SB&di=1-0"
